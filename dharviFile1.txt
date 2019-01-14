@@ -1,3 +1,5 @@
 Hi, welcome to the tutorial!
 
 Making changes..
+
+Git exercise 1!
